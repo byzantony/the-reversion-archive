@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-projects/14-the-reversion-archive/artificial-intelligence-ai/"}
+{"dg-publish":true,"permalink":"/10-projects/14-the-reversion-archive/artificial-intelligence-ai/","hide":true}
 ---
 
 # Artificial Intelligence (AI)

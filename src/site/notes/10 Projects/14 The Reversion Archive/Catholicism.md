@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-projects/14-the-reversion-archive/catholicism/"}
+{"dg-publish":true,"permalink":"/10-projects/14-the-reversion-archive/catholicism/","hide":true}
 ---
 
 

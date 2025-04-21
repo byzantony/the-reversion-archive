@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-projects/14-the-reversion-archive/judaism/"}
+{"dg-publish":true,"permalink":"/10-projects/14-the-reversion-archive/judaism/","hide":true}
 ---
 
 

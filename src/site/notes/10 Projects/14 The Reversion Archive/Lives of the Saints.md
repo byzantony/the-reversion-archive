@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-projects/14-the-reversion-archive/lives-of-the-saints/"}
+{"dg-publish":true,"permalink":"/10-projects/14-the-reversion-archive/lives-of-the-saints/","hide":true}
 ---
 
 
