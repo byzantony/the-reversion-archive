@@ -22,12 +22,13 @@
 - [Christ is King, Christian Nationalism, Mass Noticing, & MORE! w/ Anthony of Westgate. Aether Hour Ep. 35](https://worldwarnow.co/p/christ-is-king-christian-nationalism)
 - [Jewish Roots of the Protestant Reformation: Kabbalah, Talmud, Christian Zionism, & MORE w/ Anthony of Westgate! Aether Hour Ep. 73](https://worldwarnow.co/p/jewish-roots-of-the-protestant-reformation)
 - [Freemasonry, Millenarian Cults and Puritan Kabbalah](https://thereversion.co/p/freemasonry-millenarian-cults-and)
-- [Book Club Roundup: Kabbalah and the Founding of America (Part 1)](https://thereversion.co/p/book-club-roundup-kabbalah-and-the)
-- [Book Club Roundup: Kabbalah and the Founding of America (Part 2)](https://thereversion.co/p/book-club-roundup-kabbalah-and-the-af9)
 
 ### [[Book Club\|Book Club]]
 - [Usury and Its Consequences](https://thereversion.co/p/usury-and-its-consequences)
 - [Codreanu and The Iron Guard - Romanian Fascism](https://rumble.com/v5fcv1v-codreanu-and-the-iron-guard-romanian-fascism.html)
 - [For My Legionaries: Fascism, Monarchy and Orthodoxy](https://thereversion.co/p/for-my-legionaries-fascism-monarchy)
-**[[Eschaton Audio\|Eschaton Audio]]**
+- [Book Club Roundup: Kabbalah and the Founding of America (Part 1)](https://thereversion.co/p/book-club-roundup-kabbalah-and-the)
+- [Book Club Roundup: Kabbalah and the Founding of America (Part 2)](https://thereversion.co/p/book-club-roundup-kabbalah-and-the-af9)
+
+### [[Eschaton Audio\|Eschaton Audio]]
 - [A Barbaric Blood Secret Revealed](https://thereversion.co/p/the-neophyte-book): A Testimony of Ritual Murder from a former Rabbi turned Orthodox monk
