@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/podcasts/"}
 ---
 
-
 # Podcasts
 ---
 - [Charismatic Chaos and False Miracles](https://thereversion.co/p/charismatic-chaos-and-false-miracles): Exploring the New Christianity of the End Times

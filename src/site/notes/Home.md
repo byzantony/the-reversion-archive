@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-### [[Lives of the Saints\|Lives of the Saints]]
+### [[Topics/Lives of the Saints\|Lives of the Saints]]
 **[[Articles\|Articles]]**
 - [Saint Anthony the Great and the Demon Who Came To Him in Repentance](https://thereversion.co/p/saint-anthony-the-great-and-the-demon): As told by St. Justin Popovich
 - [Of Beasts and Saints: The Taming of Wild Animals Through Theosis](https://thereversion.co/p/of-beasts-and-saints): A collection of stories of great saints and their animal companions.
@@ -16,7 +16,7 @@
 -  [A Night Ride to Jerusalem on a Demon](https://thereversion.co/p/a-night-ride-to-jerusalem-on-a-demon): The story of St. John of Novgorod and his wild midnight trip to venerate the tomb of Christ
 
 ---
-### [[Biblical Studies\|Biblical Studies]]
+### [[Topics/Biblical Studies\|Biblical Studies]]
 **[[Articles\|Articles]]**
 - [Biblical and Patristic Defense of Geocentric Cosmology](https://thereversion.co/p/biblical-and-patristic-defense-of): A collection of excerpts from the Scriptures and Church Fathers on the geocentric nature of the cosmos
 
@@ -25,7 +25,7 @@
 - [The Ancient Church and the End of History](https://thereversion.co/p/the-ancient-church-and-the-end-of): Discussion with G.M. Davis, author of Antichrist: The Fulfillment of Globalization
 
 ---
-### [[Modern Science\|Modern Science]]
+### [[Topics/Modern Science\|Modern Science]]
 **[[Articles\|Articles]]**
 - [Astral Magic: The Occult Religion of Modern Cosmology](https://thereversion.co/p/astral-magic-the-occult-religion): ### How the Renaissance revival of ancient alchemy birthed the mythos of modern science
 - [The Meme Virus is So Back, Experts Say](https://thereversion.co/p/the-meme-virus-is-so-back-experts): Don’t panic but also mask up and get in the jab line
@@ -40,7 +40,7 @@
 - [Orthodox Survival Course: The Enlightenment](https://thereversion.co/p/orthodox-survival-course-the-enlightenment)
 - [Orthodox Survival Course: New Religion & Evolution](https://thereversion.co/p/new-religion-and-evolution)
 ---
-### [[Cosmology\|Cosmology]]
+### [[Topics/Cosmology\|Cosmology]]
 **[[Articles\|Articles]]**
 - [Astral Magic: The Occult Religion of Modern Cosmology](https://thereversion.co/p/astral-magic-the-occult-religion): How the Renaissance revival of ancient alchemy birthed the mythos of modern science
 - [Biblical and Patristic Defense of Geocentric Cosmology](https://thereversion.co/p/biblical-and-patristic-defense-of): A collection of excerpts from the Scriptures and Church Fathers on the geocentric nature of the cosmos
@@ -53,7 +53,7 @@
 - [Orthodox Survival Course: The Enlightenment](https://thereversion.co/p/orthodox-survival-course-the-enlightenment)
 
 ---
-### [[Paranormal\|Paranormal]]
+### [[Topics/Paranormal\|Paranormal]]
 **[[Articles\|Articles]]**
 - [Enter Hatman](https://thereversion.co/p/enter-hatman): A meme of demonic proportions
 - [Psychic Soldiers in the Aerial Realm of Demons](https://thereversion.co/p/psychic-soldiers-in-the-aerial-realm): How the U.S. military is using out-of-body experiences to gather foreign intel
@@ -62,7 +62,7 @@
 - [UFO's and the New Religious Consciousness](https://thereversion.co/p/ufos-and-the-new-religious-consciousness): On the normalization of the great UFO deception
 - [Sci-Fi Occult Psyops and the UFO Deception w/ Jay Dyer](https://thereversion.co/p/sci-fi-occult-psyops-and-the-ufo)
 ---
-### [[Conspiracy\|Conspiracy]]
+### [[Topics/Conspiracy\|Conspiracy]]
 **[[Articles\|Articles]]**
 - [Conspiracy Theory as a Hegemonic Weapon of Psychological Warfare](https://thereversion.co/p/conspiracy-theory-as-a-hegemonic): Advancing the weaponization of 'conspiracy theorists' through the manufacturing of NPC's
 - [Edward Bernays and the Engineering of Consent](https://thereversion.co/p/edward-bernays-and-the-engineering): How the nephew of Sigmund Freud became known as the Godfather of Public Relations
@@ -80,7 +80,7 @@
 - [Usury and Its Consequences](https://thereversion.co/p/usury-and-its-consequences)
 - [Central Banking and The Enslavement of Mankind](https://thereversion.co/p/central-banking-and-the-enslavement)
 ---
-### [[Catholicism\|Catholicism]]
+### [[Topics/Catholicism\|Catholicism]]
 **[[Book Club\|Book Club]]**
 -  [Orthodox Faith and Life in Christ (Part 1)](https://thereversion.co/p/orthodox-faith-and-life-in-christ): Book Club discussion on "A History of Central Banking and the Enslavement of Mankind" (Part 1)
 - [Orthodoxy and Life In Christ (Part 2)](https://thereversion.co/p/orthodoxy-and-life-in-christ-part): Exploring St. Justin Popovich's critique of western humanism and the nature of true knowledge
@@ -88,7 +88,7 @@
 - [Orthodox Survival Course: The Renaissance](https://thereversion.co/p/orthodox-survival-course-the-renaissance)
 
 ---
-### [[Protestantism\|Protestantism]]
+### [[Topics/Protestantism\|Protestantism]]
 **[[Articles\|Articles]]**
 - [Kabbalah and the Protestant Revolution](https://thereversion.co/p/kabbalah-and-the-protestant-revolution): The Esoteric Reformation of the New World
 - [Kabbalah and Christian Zionism](https://thereversion.co/p/kabbalah-and-christian-zionism): The Judeo-Masonic Machinery of Revolution
@@ -104,7 +104,7 @@
 - [The Orthodox Worldview and the Middle Ages](https://thereversion.co/p/the-orthodox-worldview-and-the-middle)
 - [Orthodox Survival Course: The Renaissance](https://thereversion.co/p/orthodox-survival-course-the-renaissance)
 ---
-### [[Philosophy\|Philosophy]]
+### [[Topics/Philosophy\|Philosophy]]
 **[[Articles\|Articles]]**
 - [Resistance to Evil by Force - Ivan Ilyin's Orthodox Response to Christian Pacifism](https://thereversion.co/p/resistance-to-evil-by-force-ivan)
 
@@ -117,7 +117,7 @@
 - Lectures 10-11: [Orthodox Survival Course: New Religion & Evolution](https://thereversion.co/p/new-religion-and-evolution)
 
 ---
-### [[Psychedelics\|Psychedelics]]
+### [[Topics/Psychedelics\|Psychedelics]]
 
 **[[Articles\|Articles]]**
 - [Burning Man: The New Bohemian Grove](https://thereversion.co/p/burning-man-the-new-bohemian-grove): Human sacrifice, psychedelics, MK Ultra and UFO's in the occult oasis of Black Rock
@@ -125,7 +125,7 @@
 - [The Ritual Murder That Ended 1960s Counter Culture](https://thereversion.co/p/the-ritual-murder-that-ended-1960s): How one ominous night of debauchery and violence epitomized the hippie movement.
 
 ---
-### [[Renaissance & Early Modern History\|Renaissance & Early Modern History]]
+### [[Topics/Renaissance & Early Modern History\|Renaissance & Early Modern History]]
 **[[Articles\|Articles]]**
 - [Astral Magic: The Occult Religion of Modern Cosmology](https://thereversion.co/p/astral-magic-the-occult-religion): How the Renaissance revival of ancient alchemy birthed the mythos of modern science
 - [Kabbalah and the Protestant Revolution](https://thereversion.co/p/kabbalah-and-the-protestant-revolution): The Esoteric Reformation of the New World
@@ -141,7 +141,7 @@
 - [Book Club Roundup: Kabbalah and the Founding of America (Part 1)](https://thereversion.co/p/book-club-roundup-kabbalah-and-the)
 - [Book Club Roundup: Kabbalah and the Founding of America (Part 2)](https://thereversion.co/p/book-club-roundup-kabbalah-and-the-af9)
 ---
-### [[Church History\|Church History]]
+### [[Topics/Church History\|Church History]]
 **[[Articles\|Articles]]**
 - [The Greatest Miracle Never Told](https://thereversion.co/p/the-greatest-miracle-never-told): A historical and Patristic account of Julian the Apostate's failed speed run to rebuild the Temple of Jerusalem
 - [Living Stones: The Christian Ancestors of the Holy Land](https://thereversion.co/p/living-stones-the-christian-ancestors): A look into the forgotten Orthodox people and temples of Palestine before and after the Israeli occupation
@@ -161,7 +161,7 @@
 - [The Making of Holy Russia: The Orthodox Church and Russian Nationalism Before the Revolution](https://thereversion.co/p/the-making-of-holy-russia-the-orthodox)
 
 ---
-### [[Psychology\|Psychology]]
+### [[Topics/Psychology\|Psychology]]
 **[[Articles\|Articles]]**
 - [Enneagram and The Occult of Personality](https://thereversion.co/p/enneagram-and-the-occult-of-personality): The gnostic subversion of Christian psychology
 - [Edward Bernays and the Engineering of Consent](https://thereversion.co/p/edward-bernays-and-the-engineering): How the nephew of Sigmund Freud became known as the Godfather of Public Relations
@@ -171,7 +171,7 @@
 - [Doomscrolling and Its Consequences](https://thereversion.co/p/doomscrolling-and-its-consequences): Why I am walking out of the digital dopamine casino
 
 ---
-### [[Politics\|Politics]]
+### [[Topics/Politics\|Politics]]
 **[[Articles\|Articles]]**
 - [AI Generated Atrocity Propaganda](https://thereversion.co/p/ai-generated-atrocity-propaganda): The weaponization of AI and digital forensics in information warfare
 - [Elder Paisios Against Zionists And Cowardly Orthodox](https://thereversion.co/p/elder-paisios-against-zionists-and): “The Zionists want to rule the world”, warned holy monk of Mt. Athos Elder Paisios before his death in 1994
@@ -190,7 +190,7 @@
 - [The Making of Holy Russia: The Orthodox Church and Russian Nationalism Before the Revolution](https://thereversion.co/p/the-making-of-holy-russia-the-orthodox)
 
 ---
-### [[Current Events\|Current Events]]
+### [[Topics/Current Events\|Current Events]]
 
 **[[Articles\|Articles]]**
 - [The Meme Virus is So Back, Experts Say](https://thereversion.co/p/the-meme-virus-is-so-back-experts): Don’t panic but also mask up and get in the jab line
@@ -206,7 +206,7 @@
 - [Transhumanism, Fr. Seraphim Rose, antichrist, Techno-Terrorism & MORE w/ Anthony. Aether Hour Ep. 49 - YouTube](https://youtu.be/VdhvhNlk-YM?si=FppBysaw1c64gnrm) [WWN Aether Hour Ep. 49]
 - [Cyborg Theocracy and the War for Humanity w/ Joe Allen](https://thereversion.co/p/cyborg-theocracy-and-the-war-for)
 ---
-### [[Culture\|Culture]]
+### [[Topics/Culture\|Culture]]
 
 **[[Articles\|Articles]]**
 - [The Unholy Subversion of the Music Industry](https://thereversion.co/p/the-unholy-subversion-of-the-music): How musical masons wrote the soundtrack to modern Babylon
@@ -241,7 +241,7 @@
 - [The Unholy Subversion of the Music Industry](https://thereversion.co/p/the-unholy-subversion-of-the-music): How musical masons wrote the soundtrack to modern Babylon
 - [The De-Christianization of Christmas Music](https://thereversion.co/p/the-de-christianization-of-secular): The invisible secularization of Christmas by Jewish broadway composers
 ---
-### [[Judaism\|Judaism]]
+### [[Topics/Judaism\|Judaism]]
 
 **[[Articles\|Articles]]**
 - [The Greatest Miracle Never Told](https://thereversion.co/p/the-greatest-miracle-never-told): A historical and Patristic account of Julian the Apostate's failed speed run to rebuild the Temple of Jerusalem
@@ -270,7 +270,7 @@
 **[[Eschaton Audio\|Eschaton Audio]]**
 - [A Barbaric Blood Secret Revealed](https://thereversion.co/p/the-neophyte-book): A Testimony of Ritual Murder from a former Rabbi turned Orthodox monk
 ---
-### [[Zionism\|Zionism]]
+### [[Topics/Zionism\|Zionism]]
 **[[Articles\|Articles]]**
 - [Elder Paisios Against Zionists And Cowardly Orthodox](https://thereversion.co/p/elder-paisios-against-zionists-and): “The Zionists want to rule the world”, warned holy monk of Mt. Athos Elder Paisios before his death in 1994
 - [AI Generated Atrocity Propaganda](https://thereversion.co/p/ai-generated-atrocity-propaganda): The weaponization of AI and digital forensics in information warfare
@@ -283,7 +283,7 @@
 - [Christ is King, Christian Nationalism, Mass Noticing, & MORE! w/ Anthony of Westgate. Aether Hour Ep. 35](https://worldwarnow.co/p/christ-is-king-christian-nationalism)
 - [Freemasonry, Millenarian Cults and Puritan Kabbalah](https://thereversion.co/p/freemasonry-millenarian-cults-and): Examining the Spiritual Blueprint of the Apocalypse w/ Analogia Entis
 ---
-### [[New Age\|New Age]]
+### [[Topics/New Age\|New Age]]
 **[[Articles\|Articles]]**
 - [Yoga: A Science or a Religion?](https://thereversion.co/p/yoga-a-science-or-a-religion): An untranslated chapter from the book "The Gurus, the Young Man and Elder Paisios"
 - [Psychic Soldiers in the Aerial Realm of Demons](https://thereversion.co/p/psychic-soldiers-in-the-aerial-realm): How the U.S. military is using out-of-body experiences to gather foreign intel
@@ -348,7 +348,7 @@
 **[[Eschaton Audio\|Eschaton Audio]]**
 - [The Protocols and the Jewish Revolutionary Spirit](https://thereversion.co/p/the-protocols-and-the-jewish-revolutionary)
 ---
-### [[Occult\|Occult]]
+### [[Topics/Occult\|Occult]]
 
 **[[Articles\|Articles]]**
 - [Enter Hatman](https://thereversion.co/p/enter-hatman): A meme of demonic proportions
@@ -378,7 +378,7 @@
 - [A Barbaric Blood Secret Revealed - by Anthony of Westgate](https://thereversion.co/p/the-neophyte-book): A Testimony of Ritual Murder from a former Rabbi turned Orthodox monk
 
 ---
-### [[UFOs\|UFOs]]
+### [[Topics/UFOs\|UFOs]]
 **[[Articles\|Articles]]**
 - [Burning Man: The New Bohemian Grove](https://thereversion.co/p/burning-man-the-new-bohemian-grove): Human sacrifice, psychedelics, MK Ultra and UFO's in the occult oasis of Black Rock
 - [Enter Hatman](https://thereversion.co/p/enter-hatman): A meme of demonic proportions
@@ -387,7 +387,7 @@
 - [UFO's and the New Religious Consciousness](https://thereversion.co/p/ufos-and-the-new-religious-consciousness): On the normalization of the great UFO deception
 - [Sci-Fi Occult Psyops and the UFO Deception with Jay Dyer](https://thereversion.co/p/sci-fi-occult-psyops-and-the-ufo)
 ---
-### [[Eschatology\|Eschatology]]
+### [[Topics/Eschatology\|Eschatology]]
 - [Techno-Pagan Cults in the AI Accelerationist Utopia](https://thereversion.co/p/techno-pagan-cults-in-the-ai-accelerationist): Decoding the Dark History of Silicon Valley's Occult Influence and Its Consequences
 - [Psychic Soldiers in the Aerial Realm of Demons](https://thereversion.co/p/psychic-soldiers-in-the-aerial-realm): How the U.S. military is using out-of-body experiences to gather foreign intel
 - [The Greatest Miracle Never Told](https://thereversion.co/p/the-greatest-miracle-never-told): A historical and Patristic account of Julian the Apostate's failed speed run to rebuild the Temple of Jerusalem
@@ -427,7 +427,7 @@
 - [Occult Magic Destroyed by Christian Prayer (Sts. Cyprian and Justina)](https://thereversion.co/p/occult-magic-destroyed-by-christian): The story of a maiden conquering a mighty pagan sorcerer and the powers of hell with the sign of the cross
 - [When Sorcery Meets the Jesus Prayer](https://thereversion.co/p/when-sorcery-meets-the-jesus-prayer): A Fakir's "Miracle" and the Prayer of Jesus by Archimandrite Nicholas Drobyazgin
 ---
-### [[Technology\|Technology]]
+### [[Topics/Technology\|Technology]]
 **[[Articles\|Articles]]**
 - [Reformatting the Twitter Brain](https://thereversion.co/p/reformatting-the-twitter-brain): How to use Twitter without letting it turn you into an actual schizo
 - [Doomscrolling and Its Consequences](https://thereversion.co/p/doomscrolling-and-its-consequences): Why I am walking out of the digital dopamine casino
@@ -447,7 +447,7 @@
 - [Sci-Fi Occult Psyops and the UFO Deception with Jay Dyer](https://thereversion.co/p/sci-fi-occult-psyops-and-the-ufo)
 
 ---
-### [[Artificial Intelligence (AI)\|Artificial Intelligence (AI)]]
+### [[Topics/Artificial Intelligence (AI)\|Artificial Intelligence (AI)]]
 **[[Articles\|Articles]]**
 - [AI Generated Atrocity Propaganda](https://thereversion.co/p/ai-generated-atrocity-propaganda): The weaponization of AI and digital forensics in information warfare
 - [Techno-Pagan Cults in the AI Accelerationist Utopia](https://thereversion.co/p/techno-pagan-cults-in-the-ai-accelerationist): Decoding the Dark History of Silicon Valley's Occult Influence and Its Consequences
@@ -458,7 +458,7 @@
 - [Transhumanism, Fr. Seraphim Rose, antichrist, Techno-Terrorism & MORE w/ Anthony. Aether Hour Ep. 49 - YouTube](https://youtu.be/VdhvhNlk-YM?si=FppBysaw1c64gnrm) [WWN Aether Hour Ep. 49]
 - [Cyborg Theocracy and the War for Humanity w/ Joe Allen](https://thereversion.co/p/cyborg-theocracy-and-the-war-for)
 ---
-### [[Transhumanism\|Transhumanism]]
+### [[Topics/Transhumanism\|Transhumanism]]
 
 **[[Articles\|Articles]]**
 - [Techno-Pagan Cults in the AI Accelerationist Utopia](https://thereversion.co/p/techno-pagan-cults-in-the-ai-accelerationist): Decoding the Dark History of Silicon Valley's Occult Influence and Its Consequences
