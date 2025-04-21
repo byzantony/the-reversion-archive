@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-projects/14-the-reversion-archive/home/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/10-projects/14-the-reversion-archive/home/","tags":["gardenEntry"]}
 ---
 
 ### [[10 Projects/14 The Reversion Archive/Lives of the Saints\|Lives of the Saints]]
