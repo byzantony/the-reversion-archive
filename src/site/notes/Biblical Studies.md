@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/biblical-studies/","hide":true}
+---
+
+
+# Biblical Studies
+---
+### [[Articles\|Articles]]
+- [Biblical and Patristic Defense of Geocentric Cosmology](https://thereversion.co/p/biblical-and-patristic-defense-of): A collection of excerpts from the Scriptures and Church Fathers on the geocentric nature of the cosmos
+
+### [[Podcasts\|Podcasts]]
+- [How the Earth Stands Still w/ Robert Sungenis](https://thereversion.co/p/how-the-earth-stands-still-w-robert): On the Biblical, scientific and historical case for geocentrism
+- [The Ancient Church and the End of History](https://thereversion.co/p/the-ancient-church-and-the-end-of): Discussion with G.M. Davis, author of Antichrist: The Fulfillment of Globalization

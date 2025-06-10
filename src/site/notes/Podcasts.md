@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/podcasts/"}
 ---
 
+
 # Podcasts
 ---
 - [Charismatic Chaos and False Miracles](https://thereversion.co/p/charismatic-chaos-and-false-miracles): Exploring the New Christianity of the End Times
@@ -12,6 +13,9 @@
 - [Freemasonry, Millenarian Cults and Puritan Kabbalah](https://thereversion.co/p/freemasonry-millenarian-cults-and): Examining the Spiritual Blueprint of the Apocalypse
 ---
 ### Guest Appearances
+
+#### Counterflow
+- [Kabbalah, the Reformation, and Christianity, with Anthony of Westgate](https://www.youtube.com/watch?v=Z9QaS4spOVA)
 
 #### Church of the Eternal Logos
 
