@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/conspiracy/","hide":true}
+{"dg-publish":true,"permalink":"/conspiracy/"}
 ---
 
 # Conspiracy

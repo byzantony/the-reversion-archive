@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/catholicism/","hide":true}
+{"dg-publish":true,"permalink":"/catholicism/"}
 ---
 
 

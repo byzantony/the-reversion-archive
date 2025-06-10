@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artificial-intelligence-ai/","hide":true}
+{"dg-publish":true,"permalink":"/artificial-intelligence-ai/"}
 ---
 
 # Artificial Intelligence (AI)

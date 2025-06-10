@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/culture/","hide":true}
+{"dg-publish":true,"permalink":"/culture/"}
 ---
 
 

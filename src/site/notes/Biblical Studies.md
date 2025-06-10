@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/biblical-studies/","hide":true}
+{"dg-publish":true,"permalink":"/biblical-studies/"}
 ---
 
 
